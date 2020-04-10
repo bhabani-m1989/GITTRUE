@@ -1,0 +1,13 @@
+{
+    "fields": {
+       "project":
+       {
+          "key": "JEN"
+       },
+       "summary": "Automation Defect",
+       "description": "Logging bug through Automation",
+       "issuetype": {
+          "name": "Bug"
+       }
+   }
+}
