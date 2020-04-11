@@ -8,7 +8,7 @@ public class mc1
 	
 	static
 	{
-		myname="Bhabani Mishra";
+		myname="Bhabani Mishra New";
 	}
 	
 	public static void main(String[] args)
