@@ -1,7 +1,7 @@
 Hello, GIT
 Add more lines and dots...........
 Still more code added....
-Adding More codes
+Adding More codes to commit ()
 public class mc1
 {
 	public static final String myname;
